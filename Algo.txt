@@ -3,3 +3,5 @@ Choose pizza
 Order and enjoy
 workng on a feature on the whit branch
 added a feature
+put leftovers in the fridge
+throw away pizza box
